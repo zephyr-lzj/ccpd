@@ -6,8 +6,8 @@
  
 # 数据集文件夹结构
 - json
-  ```
-dataset/
+```
+  dataset/
 |-- images/
 |   |-- image1.jpg
 |   |-- image2.jpg
@@ -17,12 +17,13 @@ dataset/
 |   |-- annotation2.json
 |   |-- ...
 |-- classes.txt
+```
 
 
 
 - yolo
 
-  ```
+```
 dataset/
 |-- images/
 |   |-- image1.jpg
@@ -33,7 +34,7 @@ dataset/
 |   |-- image2.txt
 |   |-- ...
 |-- classes.txt
-
+```
 
 
 
